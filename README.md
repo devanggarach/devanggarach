@@ -1,5 +1,5 @@
 Welcome to my GitHub work place,<br/>
-Hi, I am Devang, Senior Software Engineer at Digitalrooar pvt. Ltd. Ahmedabad, Gujarat.
+Hi, I am Devang, Senior Software Engineer at Digitalrooar Pvt. Ltd. Ahmedabad, Gujarat.
 ---
 About Me:
 ---
