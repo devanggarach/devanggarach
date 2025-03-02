@@ -1,5 +1,5 @@
 Welcome to my GitHub work place,<br/>
-Hi, I am Devang, Software Engineer at Nakshita Infotech Ahmedabad, Gujarat.
+Hi, I am Devang, Software Engineer at Nakshita Infotech, Ahmedabad, Gujarat.
 ---
 About Me:
 ---
