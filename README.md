@@ -7,6 +7,7 @@ Hi there! 👋,
 🔭 Currently, I'm a Software Engineer at Nakshita Infotech, where I focus on building scalable, product-based architectures that drive efficiency and innovation. Previously, I worked as a Senior Software Engineer at Digitalrooar Pvt. Ltd. in Ahmedabad, focusing on developing cutting-edge solutions and optimizing service-base development processes.
 
 Experience:
+
 👨‍💻  Software Engineer at Nakshita Infotech, I work on designing and developing scalable, high-performance backend architectures for product-based market lead  applications. My focus is on ensuring seamless integration, optimizing system performance, and implementing best practices to build robust solutions.
 
 ✨ As a Software Engineer at Digitalrooar Pvt. Ltd., I'm at the forefront of driving the development and maintenance of robust backend blockchain solutions. I collaborate closely with teams to design and implement features, all while adhering to RAD methodologies for efficient project delivery.
