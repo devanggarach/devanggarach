@@ -18,7 +18,3 @@ Experience:
 💼 My journey in software development also includes a stint as a Junior Developer at Rao Information Technology, where I played a crucial role in the development of chat and time-tracker applications. My responsibilities included capturing screenshots of WFH employees and troubleshooting technical issues to ensure the seamless operation of our applications.
 
 I'm always eager to explore new avenues and contribute my skills to meaningful projects. Let's connect and create something amazing together! 🌟
-___
-[Twitter](https://x.com/devanggarach)&nbsp;&nbsp; | &nbsp;&nbsp;[Linkedin](https://in.linkedin.com/in/devanggarach)&nbsp;&nbsp; | &nbsp;&nbsp;[Instagram](https://www.instagram.com/devanggarach)&nbsp;&nbsp; | &nbsp;&nbsp;[Skype](https://join.skype.com/invite/uQPCGgh0rI9c)&nbsp;&nbsp; | &nbsp;&nbsp;[Facebook](https://www.facebook.com/devanggarach)&nbsp;&nbsp; | &nbsp;&nbsp;[WhatsApp](https://api.whatsapp.com/send?phone=+918460352525)&nbsp;&nbsp; | &nbsp;&nbsp;[Acclaim](https://www.youracclaim.com/users/devanggarach/badges)&nbsp;&nbsp; |&nbsp;&nbsp;[PayPal](https://www.paypal.me/devanggarach)&nbsp;&nbsp;
-___
-Contact me via my email: <devanggarach@gmail.com>
